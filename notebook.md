@@ -1,4 +1,3 @@
-```markdown
 # Step-by-Step Guide to Secure SSH Access with Cloudflare Tunnel
 
 This document outlines the procedures to establish secure SSH connections using Cloudflare Tunnel. It primarily focuses on the recommended **SSH with Access for Infrastructure** method, while also detailing alternative approaches.
@@ -211,4 +210,3 @@ Here’s a brief overview of the other SSH methods supported by Cloudflare:
 *   **Create a Subdomain**: Create a subdomain for your server and secure it with Cloudflare Access.
 
 This comprehensive guide provides the necessary steps for setting up secure SSH access using Cloudflare Tunnel, emphasizing the recommended method for maximum security and control.
-```
